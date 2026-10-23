@@ -334,4 +334,8 @@ tests/                    unit, integration (PGlite + RLS) and e2e (Playwright)
 
 ## License
 
-Private and proprietary. All rights reserved. Not licensed for use, copying or distribution without written permission from the repository owner.
+Copyright © 2026 Nexomation. All rights reserved.
+
+The source code is publicly visible so it can be read and reviewed, but it is **not open source**. No license is granted to use, copy, modify, distribute, host or sell this software, in whole or in part, without prior written permission from Nexomation.
+
+Opening issues and suggestions is welcome. For licensing, partnership or school deployment enquiries, contact the maintainers through the [Nexomation GitHub organization](https://github.com/Nexomation).
